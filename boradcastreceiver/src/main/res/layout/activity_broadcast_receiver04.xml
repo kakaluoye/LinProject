@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    tools:context="com.cblue.boradcastreceiver.BroadcastReceiverActivity04">
+
+    <Button
+        android:id="@+id/broadcast_receiver_activity04_btn01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="注册广播"/>
+
+    <Button
+        android:id="@+id/broadcast_receiver_activity04_btn02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="取消注册广播"/>
+
+    <Button
+        android:id="@+id/broadcast_receiver_activity04_btn03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送广播"/>
+
+</LinearLayout>

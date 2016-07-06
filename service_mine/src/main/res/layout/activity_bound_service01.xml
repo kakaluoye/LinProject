@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.lin.service_mine.BoundService01Activity">
+
+    <Button
+        android:id="@+id/BoundServce01_Activity_btn01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="绑定" />
+
+    <Button
+        android:id="@+id/BoundServce01_Activity_btn02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="解绑" />s
+
+    <Button
+        android:id="@+id/BoundServce01_Activity_btn03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="传递数据" />
+
+</LinearLayout>

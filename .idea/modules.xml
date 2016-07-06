@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LinProject.iml" filepath="$PROJECT_DIR$/LinProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbar33/actionbar33.iml" filepath="$PROJECT_DIR$/actionbar33/actionbar33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boradcastreceiver/boradcastreceiver.iml" filepath="$PROJECT_DIR$/boradcastreceiver/boradcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customofmy_view/customofmy_view.iml" filepath="$PROJECT_DIR$/customofmy_view/customofmy_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lin_broadcastreseiver/lin_broadcastreseiver.iml" filepath="$PROJECT_DIR$/lin_broadcastreseiver/lin_broadcastreseiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lin_processservice/lin_processservice.iml" filepath="$PROJECT_DIR$/lin_processservice/lin_processservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multimedia/multimedia.iml" filepath="$PROJECT_DIR$/multimedia/multimedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mutilmediaT2/mutilmediaT2.iml" filepath="$PROJECT_DIR$/mutilmediaT2/mutilmediaT2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myactionbar1/myactionbar1.iml" filepath="$PROJECT_DIR$/myactionbar1/myactionbar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytaskhomework/mytaskhomework.iml" filepath="$PROJECT_DIR$/mytaskhomework/mytaskhomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processservice/processservice.iml" filepath="$PROJECT_DIR$/processservice/processservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_mine/service_mine.iml" filepath="$PROJECT_DIR$/service_mine/service_mine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threelayersqlite/threelayersqlite.iml" filepath="$PROJECT_DIR$/threelayersqlite/threelayersqlite.iml" />
+    </modules>
+  </component>
+</project>
